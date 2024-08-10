@@ -39,8 +39,8 @@ This project demonstrates a basic blockchain system where:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bobrarity/blockhain.git
-   cd blockhain
+   git clone https://github.com/bobrarity/blockchain.git
+   cd blockchain
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
